@@ -66,8 +66,9 @@ Stanford Senior Olympics, Timer
 Turkey Trot 5K & Jingle Run 5K, Course Assistant
 
 # Skills
- 
+```markdown
 Object Oriented Programming, Data Structures, Java, JavaScript, CSS, HTML, Game development, Web design, Video production, Journalism, Photography, Adobe Creative Suite, Microsoft Office, Point of sale knowledge 
+```
  
 SHARK BAIT — A simple web game using JavaScript: https://github.com/meganmrichardson/sharkbait 
 
@@ -97,3 +98,4 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+```
