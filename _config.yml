@@ -1,9 +1,7 @@
 title: Booker Martin
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi! Welcome to Booker Martin's online portfolio.
-  #<br><br>
-  #Second description 
-  #<br><br>
-  #<a href="https://www.linkedin.com/in/bookerm/">View My LinkedIn Profile</a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/bookerm/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-cayman
