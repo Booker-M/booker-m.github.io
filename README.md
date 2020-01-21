@@ -1,4 +1,3 @@
-1060 Los Altos Ave, Los Altos, CA 94022 | bookerjmartin@gmail.com | (650) 722-9773 
 # Education
  
 Loyola Marymount University
