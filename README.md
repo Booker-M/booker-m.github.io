@@ -1,43 +1,43 @@
 # Education
  
-Loyola Marymount University
+### Loyola Marymount University
 Los Angeles, CA
 Bachelor of Computer Science, Current 3.95 GPA
 Expected May 2022
 
-Los Altos High School
+### Los Altos High School
 Los Altos, CA
 High School Diploma, Unweighted 4.0 GPA
 June 2017
 
 # Professional Experience
  
-Camp EDMO
+### Camp EDMO
 Palo Alto, CA
 Coding Instructor
 Summer 2019
 - Taught courses on Java, game design, circuitry, and Arduino/robotics to children in grades 5 – 8
 - Oversaw a classroom of 22 children which taught me important leadership and organizational skills
 
-Starbucks
+### Starbucks
 Mountain View, CA
 Barista
 2017 - 2018
 - Gained vital communication and “people” skills through customer interaction and training new employees
 
-Retail Therapy
+### Retail Therapy
 Los Altos, CA Founder
 2015 - 2017
 - Designed an online journal featuring reviews of sample products sent by various companies
 - Learned HTML and web-hosting skills and worked with Adobe Creative Suite to create graphics and videos
 
-Phone Technician
+### Phone Technician
 Los Altos, CA
 Self-Employed
 2015 - 2017
 - Repaired and refurbished broken phones for resale, including screen, battery, and camera replacements
 
-The Talon
+### The Talon
 Los Altos, CA
 Staff Writer
 2015 - 2017
@@ -46,16 +46,16 @@ Staff Writer
 
 # Awards
 
-Member of the University Honors Program
+### Member of the University Honors Program
 Loyola Marymount University
 
-Recipient of the Presidential Scholarship
+### Recipient of the Presidential Scholarship
 Loyola Marymount University
 
-Recognized on the Dean’s List
+### Recognized on the Dean’s List
 Loyola Marymount University
 
-Received the Scholar Athlete Award
+### Received the Scholar Athlete Award
 Los Altos High School 
 
 # Volunteering
@@ -66,10 +66,11 @@ Turkey Trot 5K & Jingle Run 5K, Course Assistant
 
 # Skills
 ```markdown
-Object Oriented Programming, Data Structures, Java, JavaScript, CSS, HTML, Game development, Web design, Video production, Journalism, Photography, Adobe Creative Suite, Microsoft Office, Point of sale knowledge 
+Object Oriented Programming, Data Structures, Java, JavaScript, CSS, HTML, Game development, Web design,
+Video production, Journalism, Photography, Adobe Creative Suite, Microsoft Office, Point of sale knowledge 
 ```
  
-SHARK BAIT — A simple web game using JavaScript: https://github.com/meganmrichardson/sharkbait 
+**SHARK BAIT** — A simple web game using JavaScript: [Link](https://github.com/meganmrichardson/sharkbait)
 
 ## Welcome to GitHub Pages
 
