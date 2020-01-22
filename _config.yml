@@ -3,7 +3,7 @@ logo: "/images/logo.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Welcome to Booker's online portfolio! <br>
   <a href="mailto:bookerjmartin@gmail.com">bookerjmartin@gmail.com</a>
-  <br>
+  <br> <br>
   <a href="https://www.linkedin.com/in/bookerm/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
