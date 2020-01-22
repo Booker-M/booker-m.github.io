@@ -61,14 +61,17 @@ Los Altos High School
 
 # Volunteering
  
-San Juan Islands, Trail Upkeep  
-Stanford Senior Olympics, Timer  
-Turkey Trot 5K & Jingle Run 5K, Course Assistant  
+**San Juan Islands**, Trail Upkeep  
+**Stanford Senior Olympics**, Timer  
+**Turkey Trot 5K & Jingle Run 5K**, Course Assistant  
 
 # Skills
 ```markdown
-Object Oriented Programming, Data Structures, Java, JavaScript, CSS, HTML, Game development, Web design,
-Video production, Journalism, Photography, Adobe Creative Suite, Microsoft Office, Point of sale knowledge 
+Object Oriented Programming, Data Structures, Java, JavaScript, CSS,
+HTML, Game development, Web design, Video production, Journalism,
+Photography, Adobe Creative Suite, Microsoft Office, Point of sale
 ```
- 
-[**SHARK BAIT** — A simple web game using JavaScript](https://github.com/meganmrichardson/sharkbait)
+
+# Projects
+[**Shark Bait** — A simple web game using JavaScript](https://github.com/meganmrichardson/sharkbait)
+[Sneak peak at my in-progress research on facial image generation](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)
