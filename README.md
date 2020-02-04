@@ -73,6 +73,8 @@ Photography, Adobe Creative Suite, Microsoft Office, Point of sale
 ```
 
 # Projects
-[**Shark Bait** — A simple web game using JavaScript](https://github.com/meganmrichardson/sharkbait)  
+[Shark Bait — A simple web game using JavaScript](https://github.com/meganmrichardson/sharkbait)  
   
 [Sneak peak at my planned research on facial image generation](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)
+
+[I also started the LMU Game Dev Club!](https://www.facebook.com/lmugamedev/)
