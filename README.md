@@ -54,13 +54,13 @@ Member of the **Research Learning Community**
 
 # Awards
 
-### Recipient of the Presidential Scholarship
+**Recipient of the Presidential Scholarship**  
 Loyola Marymount University
 
-### Recognized on the Dean’s List
+**Recognized on the Dean’s List**  
 Loyola Marymount University
 
-### Received the Scholar Athlete Award
+**Received the Scholar Athlete Award**  
 Los Altos High School 
 
 # Volunteering
