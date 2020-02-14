@@ -45,9 +45,9 @@ Staff Writer
 - Interviewed members of our community and collaborated with others to design an engaging paper 
 
 # Organizations
-**Co-President** of the [**LMU Game Development Club**](https://www.facebook.com/lmugamedev/)
-Member of the **University Honors Program**
-Member of the **Research Learning Community**
+**Co-President** of the [**LMU Game Development Club**](https://www.facebook.com/lmugamedev/)  
+Member of the **University Honors Program**  
+Member of the **Research Learning Community**  
 
 # Awards
 
@@ -67,13 +67,11 @@ Los Altos High School
 **Turkey Trot 5K & Jingle Run 5K**, Course Assistant  
 
 # Skills
-```markdown
 ------------ | ------------- | ------------- | -------------
 Data Structures | Java | Calculus | Leadership
 Algorithms | JavaScript | Graph Theory | Problem Solving
 Computer Systems | CSS + HTML | Game development | Teamwork
 Object Oriented Coding | Web design | Adobe Creative Suite | Communication
-```
 
 # Projects
 [Shark Bait: Evade fishy foes in this simple web game made using JavaScript!](https://meganmrichardson.github.io/sharkbait/)  
