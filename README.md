@@ -45,9 +45,10 @@ Staff Writer
 - Interviewed members of our community and collaborated with others to design an engaging paper 
 
 # Organizations
-**Co-President** of the [**LMU Game Development Club**](https://www.facebook.com/lmugamedev/)  
-Member of the **University Honors Program**  
-Member of the **Research Learning Community**  
+
+### **Co-President** of the [**LMU Game Development Club**](https://www.facebook.com/lmugamedev/)  
+### Member of the **University Honors Program**  
+### Member of the **Research Learning Community**  
 
 # Awards
 
