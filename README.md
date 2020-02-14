@@ -70,8 +70,8 @@ Los Altos High School
 **Turkey Trot 5K & Jingle Run 5K**, Course Assistant  
 
 # Skills
-Data Structures, Algorithms, Computer Systems, Object Oriented Coding,  
-Java, JavaScript, CSS + HTML, Web design,  
+Data Structures, Algorithms, Computer Systems,  
+Object Oriented Coding, Java, JavaScript, CSS + HTML, Web design,  
 Calculus, Graph Theory, Game development, Adobe Creative Suite,  
 Leadership, Problem Solving, Teamwork, Communication  
 
