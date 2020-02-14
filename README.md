@@ -75,6 +75,6 @@ JavaScript, CSS + HTML, Web design, Calculus, Graph Theory, Game development,
 Adobe Creative Suite, Leadership, Problem Solving, Teamwork, Communication  
 
 # Projects
-[Shark Bait:](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this simple web game made using JavaScript!  
+[**Shark Bait:**](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this simple web game made using JavaScript!  
   
-[In-progress Research:](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)  Hyper-Realistic Generated Faces Are Here: Can You Tell Fake From Real?
+[**In-progress Research:**](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)  Hyper-Realistic Generated Faces Are Here: Can You Tell Fake From Real?
