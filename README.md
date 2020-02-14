@@ -42,13 +42,14 @@ Self-Employed
 Los Altos, CA  
 Staff Writer  
 2015 - 2017  
-- Published articles for my high school newspaper on topics such as news, sports, and entertainment
 - Interviewed members of our community and collaborated with others to design an engaging paper 
 
-# Awards
+# Organizations
+**Co-President** of the [**LMU Game Development Club**](https://www.facebook.com/lmugamedev/)
+Member of the **University Honors Program**
+Member of the **Research Learning Community**
 
-### Member of the University Honors Program
-Loyola Marymount University
+# Awards
 
 ### Recipient of the Presidential Scholarship
 Loyola Marymount University
@@ -67,14 +68,14 @@ Los Altos High School
 
 # Skills
 ```markdown
-Object Oriented Programming, Data Structures, Java, JavaScript, CSS,
-HTML, Game development, Web design, Video production, Journalism,
-Photography, Adobe Creative Suite, Microsoft Office, Point of sale
+------------ | ------------- | ------------- | -------------
+Data Structures | Java | Calculus | Leadership
+Algorithms | JavaScript | Graph Theory | Problem Solving
+Computer Systems | CSS + HTML | Game development | Teamwork
+Object Oriented Coding | Web design | Adobe Creative Suite | Communication
 ```
 
 # Projects
-[Shark Bait — A simple web game using JavaScript](https://github.com/meganmrichardson/sharkbait)  
+[Shark Bait: Evade fishy foes in this simple web game made using JavaScript!](https://meganmrichardson.github.io/sharkbait/)  
   
-[Sneak peak at my planned research on facial image generation](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)
-
-[I also started the LMU Game Dev Club!](https://www.facebook.com/lmugamedev/)
+[In-progress Research: Hyper-Realistic Generated Faces Are Here: Can You Tell Fake From Real?](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)
