@@ -61,13 +61,7 @@ Loyola Marymount University
 Loyola Marymount University
 
 **Received the Scholar Athlete Award**  
-Los Altos High School 
-
-# Volunteering
- 
-**San Juan Islands**, Trail Upkeep  
-**Stanford Senior Olympics**, Timer  
-**Turkey Trot 5K & Jingle Run 5K**, Course Assistant  
+Los Altos High School  
 
 # Skills
 Data Structures, Algorithms, Computer Systems,  
@@ -78,4 +72,10 @@ Leadership, Problem Solving, Teamwork, Communication
 # Projects
 [**Shark Bait:**](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this simple web game made using JavaScript!  
   
-[**In-progress Research:**](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)  Hyper-Realistic Generated Faces Are Here: Can You Tell Fake From Real?
+[**In-progress Research:**](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)  Hyper-Realistic Generated Faces Are Here: Can You Tell Fake From Real?  
+  
+# Volunteering
+ 
+**San Juan Islands**, Trail Upkeep  
+**Stanford Senior Olympics**, Timer  
+**Turkey Trot 5K & Jingle Run 5K**, Course Assistant  
