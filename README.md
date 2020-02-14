@@ -68,6 +68,7 @@ Los Altos High School
 **Turkey Trot 5K & Jingle Run 5K**, Course Assistant  
 
 # Skills
+One | Two | Three | Four
 ------------ | ------------- | ------------- | -------------
 Data Structures | Java | Calculus | Leadership
 Algorithms | JavaScript | Graph Theory | Problem Solving
