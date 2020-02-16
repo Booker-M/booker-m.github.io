@@ -42,7 +42,7 @@ Self-Employed
 Los Altos, CA  
 Staff Writer  
 2015 - 2017  
-- Interviewed members of our community and collaborated with others to design an engaging paper 
+- Interviewed community members and designed an engaging paper through peer-to-peer interaction  
 
 # Organizations
 
