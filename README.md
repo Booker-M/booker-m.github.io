@@ -66,7 +66,7 @@ Los Altos High School
 # Skills
 Data Structures, Algorithms, Computer Systems,  
 Object Oriented Coding, Java, JavaScript, CSS + HTML, Web design,  
-Calculus, Graph Theory, Game development, Adobe Creative Suite,  
+Calculus, Graph Theory, Game Development, Adobe Creative Suite,  
 Leadership, Problem Solving, Teamwork, Communication  
 
 # Projects
