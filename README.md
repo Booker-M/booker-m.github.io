@@ -70,6 +70,8 @@ Calculus, Graph Theory, Game Development, Adobe Creative Suite,
 Leadership, Problem Solving, Teamwork, Communication  
 
 # Projects
+[**Space Cadet:**](https://booker-m.github.io/Space-Cadet/) Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
+
 [**Shark Bait:**](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this simple web game made using JavaScript!  
   
 [**In-progress Research:**](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)  Hyper-Realistic Generated Faces Are Here: Can You Tell Fake From Real?  
