@@ -46,7 +46,7 @@ Staff Writer
 
 # Organizations
 
-**Co-President** of the [**LMU Game Development Club**](https://www.facebook.com/lmugamedev/)  
+**Co-Founder** & **Co-President** of the [**LMU Game Development Club**](https://www.facebook.com/lmugamedev/)  
 
 Member of the **University Honors Program**  
 
