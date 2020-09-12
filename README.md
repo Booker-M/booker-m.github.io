@@ -2,7 +2,7 @@
  
 ### Loyola Marymount University
 Los Angeles, CA  
-Bachelor of Computer Science, Current 3.95 GPA  
+Bachelor of Computer Science, Current 3.96 GPA  
 Expected May 2022  
 
 ### Los Altos High School
@@ -12,6 +12,14 @@ June 2017
 
 # Professional Experience
  
+### LMU Honors Research Fellow
+Los Angeles, CA
+Researcher/Game Developer
+June 2020 - Present
+Awarded the LMU Honors Summer Research Fellowship Grant for two research projects:
+1.	Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity any links between how accurately people can identify AI-generated images and their cognitive reflection abilities
+2.	Designed and begun development on a digital, procedurally generated game intending to provoke players' sense of morality through challenging ethical decisions
+
 ### Camp EDMO
 Palo Alto, CA  
 Coding Instructor  
@@ -36,13 +44,7 @@ Founder
 Los Altos, CA  
 Self-Employed  
 2015 - 2017  
-- Repaired and refurbished broken phones for resale, including screen, battery, and camera replacements
-
-### The Talon
-Los Altos, CA  
-Staff Writer  
-2015 - 2017  
-- Interviewed community members and designed an engaging paper through peer-to-peer interaction  
+- Repaired and refurbished broken phones for resale, including screen, battery, and camera replacements  
 
 # Organizations
 
@@ -57,6 +59,9 @@ Member of the **Research Learning Community**
 **Recipient of the Presidential Scholarship**  
 Loyola Marymount University
 
+**Recipient of the Honors Research Fellow Grant**  
+Loyola Marymount University
+
 **Recognized on the Dean’s List**  
 Loyola Marymount University
 
@@ -64,20 +69,20 @@ Loyola Marymount University
 Los Altos High School  
 
 # Skills
+
 Data Structures, Algorithms, Computer Systems,  
-Object Oriented Coding, Java, JavaScript, CSS + HTML, Web design,  
-Calculus, Graph Theory, Game Development, Adobe Creative Suite,  
+Artificial Intelligence, C#, Java, JavaScript, CSS + HTML,  
+Calculus, Graph Theory, Game Development, Ditigal Art & Design,  
 Leadership, Problem Solving, Teamwork, Communication  
 
 # Projects
+
 [**Space Cadet:**](https://booker-m.github.io/Space-Cadet/) Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
 
 [**Shark Bait:**](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this simple web game made using JavaScript!  
   
-[**In-progress Research:**](https://digitalcommons.lmu.edu/honors-research-and-exhibition/2019/section-02/1/)  Hyper-Realistic Generated Faces Are Here: Can You Tell Fake From Real?  
-  
 # Volunteering
- 
+
 **San Juan Islands**, Trail Upkeep  
 **Stanford Senior Olympics**, Timer  
 **Turkey Trot 5K & Jingle Run 5K**, Course Assistant  
