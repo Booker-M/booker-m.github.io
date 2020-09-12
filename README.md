@@ -12,13 +12,13 @@ June 2017
 
 # Professional Experience
  
-### LMU Honors Research Fellow
-Los Angeles, CA
-Researcher/Game Developer
-June 2020 - Present
-Awarded the LMU Honors Summer Research Fellowship Grant for two research projects:
-1.	Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity any links between how accurately people can identify AI-generated images and their cognitive reflection abilities
-2.	Designed and begun development on a digital, procedurally generated game intending to provoke players' sense of morality through challenging ethical decisions
+### LMU Honors Research Fellow  
+Los Angeles, CA  
+Researcher/Game Developer  
+June 2020 - Present  
+Awarded the LMU Honors Summer Research Fellowship Grant for two research projects:  
+1.	Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity any links between how accurately people can identify AI-generated images and their cognitive reflection abilities  
+2.	Designed and begun development on a digital, procedurally generated game intending to provoke players' sense of morality through challenging ethical decisions  
 
 ### Camp EDMO
 Palo Alto, CA  
