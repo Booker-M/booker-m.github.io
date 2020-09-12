@@ -59,7 +59,7 @@ Member of the **Research Learning Community**
 **Recipient of the Presidential Scholarship**  
 Loyola Marymount University
 
-**Recipient of the Honors Research Fellow Grant**  
+**Recipient of the Honors Research Fellowship Grant**  
 Loyola Marymount University
 
 **Recognized on the Dean’s List**  
