@@ -16,16 +16,15 @@ June 2017
 Los Angeles, CA  
 Researcher/Game Developer  
 June 2020 - Present  
-Awarded the LMU Honors Summer Research Fellowship Grant for two research projects:  
-1.	Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity any links between how accurately people can identify AI-generated images and their cognitive reflection abilities  
-2.	Designed and begun development on a digital, procedurally generated game intending to provoke players' sense of morality through challenging ethical decisions  
+[Project 1:](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1251&context=honors-research-and-exhibition) Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity any links between how accurately people can identify AI-generated images and their reliance on “gut instinct”  
+[Project 2:](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1153&context=honors-grants-and-fellowships) Designed and developed a digital, procedurally generated game that provokes players' sense of morality through challenging ethical decisions  
 
 ### Camp EDMO
 Palo Alto, CA  
 Coding Instructor  
 Summer 2019  
 - Taught courses on Java, game design, circuitry, and Arduino/robotics to children in grades 5 – 8
-- Oversaw a classroom of 22 children which taught me important leadership and organizational skills
+- Oversaw a classroom of 22 children, during which I learned important leadership and organizational skills  
 
 ### Starbucks
 Mountain View, CA  
@@ -79,7 +78,7 @@ Leadership, Problem Solving, Teamwork, Communication
 
 [**Space Cadet:**](https://booker-m.github.io/Space-Cadet/) Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
 
-[**Shark Bait:**](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this web game developed with JavaScript!  
+[**Shark Bait:**](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this web game developed with JavaScript.  
   
 # Volunteering
 
