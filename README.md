@@ -47,7 +47,7 @@ Self-Employed
 
 # Organizations
 
-**Co-Founder** & **Co-President** of the [**LMU Game Development Club**](https://www.facebook.com/lmugamedev/)  
+**Co-Founder** & **Co-President** of the [LMU Game Development Club](https://www.facebook.com/lmugamedev/)  
 
 Member of the **University Honors Program**  
 
@@ -76,9 +76,9 @@ Leadership, Problem Solving, Teamwork, Communication
 
 # Projects
 
-[**Space Cadet:**](https://booker-m.github.io/Space-Cadet/) Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
+[Space Cadet:](https://booker-m.github.io/Space-Cadet/) Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
 
-[**Shark Bait:**](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this web game developed with JavaScript.  
+[Shark Bait:](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this web game developed with JavaScript.  
   
 # Volunteering
 
