@@ -62,7 +62,7 @@ Loyola Marymount University
 Loyola Marymount University
 
 **Recognized on the Dean’s List**  
-Loyola Marymount University
+Loyola Marymount University | 4 Consecutive Semesters
 
 **Received the Scholar Athlete Award**  
 Los Altos High School  
