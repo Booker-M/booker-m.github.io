@@ -2,22 +2,36 @@
  
 ### Loyola Marymount University
 Los Angeles, CA  
-Bachelor of Computer Science, Current 3.96 GPA  
-Expected May 2022  
+Bachelor of Computer Science, Expected May 2022  
+Current 3.96 GPA  
+- University Honors Program  
+- Dean’s List: Fall 2018, Spring 2019, Fall 2019, Spring 2020  
 
 ### Los Altos High School
 Los Altos, CA  
 High School Diploma, Unweighted 4.0 GPA  
 June 2017  
 
+# Relevant Coursework
+
+Data Structures, Algorithms, Artificial Intelligence, Programming Languages,  
+Computer Systems, Interaction Design, Theory of Computation,  
+Calculus I & II, Methods of Proofs, Discrete Methods, Game Design  
+
+# Technical Skills
+
+**Programming Languages:** Java, C#, JavaScript, CSS, HTML, Python  
+**Software:** Unity, Git, Adobe Creative Suite, Microsoft Office  
+
+# Technical Projects
+[Documenting the Human Ability to Correctly Identify Fake Images:](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1251&context=honors-research-and-exhibition) Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity links between how accurately people identify AI-generated images and their reliance on “gut instinct”  
+[Establishing Morality through Video Games:](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1153&context=honors-grants-and-fellowships) Designed and developed a digital, procedurally generated game that provokes players' sense of morality through challenging ethical decisions  
+
+[Space Cadet:](https://booker-m.github.io/Space-Cadet/) Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
+
+[Shark Bait:](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this web game developed with JavaScript.  
+
 # Professional Experience
- 
-### LMU Honors Research Fellow  
-Los Angeles, CA  
-Researcher/Game Developer  
-June 2020 - Present  
-- [Project 1:](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1251&context=honors-research-and-exhibition) Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity links between how accurately people identify AI-generated images and their reliance on “gut instinct”  
-- [Project 2:](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1153&context=honors-grants-and-fellowships) Designed and developed a digital, procedurally generated game that provokes players' sense of morality through challenging ethical decisions  
 
 ### Camp EDMO
 Palo Alto, CA  
@@ -49,36 +63,18 @@ Self-Employed
 
 **Co-Founder** & **Co-President** of the [LMU Game Development Club](https://www.facebook.com/lmugamedev/)  
 
-Member of the **University Honors Program**  
-
-Member of the **Research Learning Community**  
+**Research Learning Community**  
 
 # Awards
 
-**Recipient of the Presidential Scholarship**  
+**Honors Research Fellowship Grant**  
 Loyola Marymount University
 
-**Recipient of the Honors Research Fellowship Grant**  
+**Presidential Scholarship**  
 Loyola Marymount University
 
-**Recognized on the Dean’s List**  
-Loyola Marymount University | 4 Consecutive Semesters
-
-**Received the Scholar Athlete Award**  
+**Scholar Athlete Award**  
 Los Altos High School  
-
-# Skills
-
-Data Structures, Algorithms, Computer Systems,  
-Artificial Intelligence, C#, Java, JavaScript, CSS + HTML,  
-Calculus, Graph Theory, Game Development, Ditigal Art & Design,  
-Leadership, Problem Solving, Teamwork, Communication  
-
-# Projects
-
-[Space Cadet:](https://booker-m.github.io/Space-Cadet/) Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
-
-[Shark Bait:](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this web game developed with JavaScript.  
   
 # Volunteering
 
