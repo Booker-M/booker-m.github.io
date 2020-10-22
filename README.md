@@ -24,12 +24,16 @@ Calculus I & II, Methods of Proofs, Discrete Methods, Game Design
 **Software:** Unity, Git, Adobe Creative Suite, Microsoft Office  
 
 # Technical Projects
-[Documenting the Human Ability to Correctly Identify Fake Images:](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1251&context=honors-research-and-exhibition) Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity links between how accurately people identify AI-generated images and their reliance on “gut instinct”  
-[Establishing Morality through Video Games:](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1153&context=honors-grants-and-fellowships) Designed and developed a digital, procedurally generated game that provokes players' sense of morality through challenging ethical decisions  
+[Documenting the Human Ability to Correctly Identify Fake Images](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1251&context=honors-research-and-exhibition)  
+Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity links between how accurately people identify AI-generated images and their reliance on “gut instinct”  
+[Establishing Morality through Video Games](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1153&context=honors-grants-and-fellowships)  
+Designed and developed a digital, procedurally generated game that provokes players' sense of morality through challenging ethical decisions  
 
-[Space Cadet:](https://booker-m.github.io/Space-Cadet/) Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
+[Space Cadet](https://booker-m.github.io/Space-Cadet/)  
+Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
 
-[Shark Bait:](https://meganmrichardson.github.io/sharkbait/) Evade fishy foes in this web game developed with JavaScript.  
+[Shark Bait](https://meganmrichardson.github.io/sharkbait/)  
+Evade fishy foes in this web game developed with JavaScript.  
 
 # Professional Experience
 
