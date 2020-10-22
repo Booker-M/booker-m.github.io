@@ -9,8 +9,8 @@ Current 3.96 GPA
 
 ### Los Altos High School
 Los Altos, CA  
-High School Diploma, Unweighted 4.0 GPA  
-June 2017  
+High School Diploma, June 2017  
+Unweighted 4.0 GPA  
 
 # Relevant Coursework
 
