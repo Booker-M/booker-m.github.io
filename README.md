@@ -14,9 +14,10 @@ Unweighted 4.0 GPA
 
 # Relevant Coursework
 
-Data Structures, Algorithms, Artificial Intelligence, Programming Languages,  
-Computer Systems, Interaction Design, Theory of Computation,  
-Calculus I & II, Methods of Proofs, Discrete Methods, Game Design  
+Data Structures, Algorithms, Artificial Intelligence,  
+Programming Languages, Computer Systems, Interaction Design,
+Theory of Computation, Calculus I & II, Methods of Proofs,  
+Discrete Methods, Game Design  
 
 # Technical Skills
 
