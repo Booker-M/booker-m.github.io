@@ -25,7 +25,7 @@ Discrete Methods, Game Design
 **Software:** Unity, Git, Adobe Creative Suite, Microsoft Office  
 
 # Technical Projects
-[Parley - Messaging Translation](https://booker-m.github.io/Parley/)  
+[Parley - Messaging Translation](https://booker-m.github.io/parley/)  
 In-progress messaging app built using React and Firebase. Planned features include in-app translation to a specified language when tapping on a message.
 
 [Documenting the Human Ability to Correctly Identify Fake Images](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1251&context=honors-research-and-exhibition)  
