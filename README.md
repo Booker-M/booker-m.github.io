@@ -21,7 +21,7 @@ Discrete Methods, Game Design
 
 # Technical Skills
 
-**Programming Languages:** Java, C#, JavaScript, React, CSS, HTML, Python, Swift  
+**Coding Languages:** Java, C#, JavaScript, ReactJS, CSS, HTML, Python, Swift  
 **Software:** Unity, Git, Visual Studio, Adobe Creative Suite, Microsoft Office  
 
 # Technical Projects
