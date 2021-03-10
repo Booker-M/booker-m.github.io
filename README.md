@@ -37,8 +37,11 @@ Designed and developed a digital, procedurally generated game that provokes play
 [Space Cadet](https://booker-m.github.io/Space-Cadet/)  
 Shoot down enemy spaceships and resist planets' gravitational pull in the ruthless final frontier.  
 
-[Shark Bait](https://meganmrichardson.github.io/sharkbait/)  
-Evade fishy foes in this web game developed with JavaScript.  
+[Coral Planet](https://booker-m.github.io/Coral-Planet/)  
+Step into the center of the world where a variety of beautiful sea creatures roam around the planet's core.  
+
+[Deep Space](https://booker-m.github.io/Deep-Space/)  
+You are a deep-space adventurer exploring uncharted territory in search of rumored rare crystals when suddenly your spaceship is ambushed by an alien fleet!  
 
 # Professional Experience
 
