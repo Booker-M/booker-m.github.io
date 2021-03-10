@@ -5,7 +5,7 @@ Los Angeles, CA
 Bachelor of Computer Science, Expected May 2022  
 Current 3.97 GPA  
 - University Honors Program  
-- Dean’s List: Fall 2018, Spring 2019, Fall 2019, Spring 2020  
+- Dean’s List: Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2021  
 
 ### Los Altos High School
 Los Altos, CA  
