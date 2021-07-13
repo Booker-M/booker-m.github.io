@@ -3,7 +3,7 @@
 ### Loyola Marymount University
 Los Angeles, CA  
 Bachelor of Computer Science, Expected May 2022  
-Current 3.97 GPA  
+- Current 3.97 GPA  
 - University Honors Program  
 - Dean’s List: Fall 2018, Spring 2019, Fall 2019, Spring 2020, Fall 2020, Spring 2021  
 
@@ -14,19 +14,16 @@ Unweighted 4.0 GPA
 
 # Relevant Coursework
 
-Data Structures, Algorithms, Artificial Intelligence,  
-Programming Languages, Computer Systems, Interaction Design,  
-Theory of Computation, Calculus I & II, Methods of Proofs,  
-Discrete Methods, Game Design  
+Data Structures, Algorithms, Computer Systems, Interaction Design, Computer Graphics, Theory of Computation, Programming Languages, Operating Systems, Artificial Intelligence, Cognitive Systems Design, Game Design  
 
 # Technical Skills
 
-**Coding Languages:** Java, C#, JavaScript, ReactJS, CSS, HTML, Python, Swift  
-**Software:** Unity, Git, Visual Studio, Adobe Creative Suite, Microsoft Office  
+**Programming Languages:** Python, JavaScript, React.js, CSS, HTML, Java, C#, Swift  
+**Software:** Unity, Git, Informatica, Adobe Creative Suite, Microsoft Office  
 
 # Technical Projects
 [Parley - Language Translation](https://booker-m.github.io/parley/)  
-Developed a messaging web app using ReactJS, Firebase servers, and Google Translate API which allows users to click on messages to translate them to their target language
+Developed a messaging web app using ReactJS, Firebase servers, and Google Translate API which allows users to click on messages to translate them to their target language  
 
 [Documenting the Human Ability to Correctly Identify Fake Images](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1251&context=honors-research-and-exhibition)  
 Constructed Amazon MTurk survey using HTML, CSS, and JavaScript to identity links between how accurately people identify AI-generated images and their reliance on “gut instinct”  
@@ -45,12 +42,19 @@ You are a deep-space adventurer exploring uncharted territory in search of rumor
 
 # Professional Experience
 
+### Dolby Laboratories
+San Francisco, CA  
+Enterprise Application Integrations Intern  
+Summer 2021  
+- Completed Informatica University courses in Application Integration and Data Integration
+- Engaged in Dolby IT team meetings and assisted with Informatica task development and monitoring
+
 ### Camp EDMO
 Palo Alto, CA  
 Coding Instructor  
 Summer 2019  
 - Taught courses on Java, game design, circuitry, and Arduino/robotics to children in grades 5 – 8
-- Oversaw a classroom of 22 children, during which I learned important leadership and organizational skills  
+- Oversaw a classroom of 22 children, during which I learned important leadership and organizational skills
 
 ### Starbucks
 Mountain View, CA  
@@ -69,7 +73,7 @@ Founder
 Los Altos, CA  
 Self-Employed  
 2015 - 2017  
-- Repaired and refurbished broken phones for resale, including screen, battery, and camera replacements  
+- Repaired and refurbished broken phones for resale, including screen, battery, and camera replacements
 
 # Organizations
 
