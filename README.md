@@ -31,7 +31,7 @@ Developed a messaging web app using React.js, Firebase servers, and Google Trans
 [Documenting the Human Ability to Correctly Identify Fake Images](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1251&context=honors-research-and-exhibition)  
 Awarded an LMU Honors grant and faculty mentorship to conduct research cross-analyzing participants’ cognitive reflection scores with how accurately they can identify AI-generated images  
 
-[Snapchat Augmented Reality Filters](https://lensstudio.snapchat.com/creator/M8l_OTWi9GC9QoOzds63uQ)
+[Snapchat Augmented Reality Filters](https://lensstudio.snapchat.com/creator/M8l_OTWi9GC9QoOzds63uQ)  
 Created a collection of filters using Snapchat’s Lens Studio, combining machine learning, augmented reality, and 3D modeling and animation to place thousands of users in immersive environments  
 
 [Establishing Morality through Video Games](https://digitalcommons.lmu.edu/cgi/viewcontent.cgi?article=1153&context=honors-grants-and-fellowships)  
