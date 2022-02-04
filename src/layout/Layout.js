@@ -8,15 +8,13 @@ import Sticky from 'react-sticky-el';
 export const Layout = ({children}) => {
   return (
     <Container>
-      <div style={{zIndex: 1, position: 'sticky'}} >
-        <Sticky topOffset={790}>
+      <div style={{zIndex:999, position: 'sticky'}}>
+        <Sticky topOffset={780}>
           <Header/>
         </Sticky>
       </div>
-      <div style={{zIndex: 1}}>
         <main>{children}</main> 
         <Footer/>
-      </div>
     </Container>
   )
 }

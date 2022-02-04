@@ -8,7 +8,10 @@ export const Container = styled.div`
   grid-column-gap: 2rem;
   padding: 0.5rem;
   padding-top: 1rem;
-  background: linear-gradient(180deg, #0F1624 90%, rgba(0,0,0,0.0));;
+  background: linear-gradient(180deg, #0F1624 90%, rgba(0,0,0,0.0));
+  // top: 0;
+  // position: sticky;
+  // z-index: 999;
 
   @media ${(props) => props.theme.breakpoints.sm} {
     display: grid;
@@ -112,7 +115,6 @@ export const NavProductsIcon = styled(IoIosArrowDropdown)`
     width: 15px;
   }
 `;
-
 
 // Social Icons 
 
