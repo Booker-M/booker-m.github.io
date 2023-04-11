@@ -2,7 +2,7 @@
   "name": "Booker_Martin_Portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://bookermartin.ml",
+  "homepage": "https://booker-m.github.io",
   "scripts": {
     "dev": "next dev",
     "predeploy": "npm run build",
