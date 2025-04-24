@@ -12,7 +12,7 @@ const Hero = (props) => (
         Booker's Portfolio
       </SectionTitle>
       <SectionText>
-        I’m a senior at Loyola Marymount University studying Computer Science. I have a diverse array of interests, including software engineering, web development, game production, and artificial intelligence. I would value the opportunity to learn from and contribute to an equally passionate team!
+      I'm a Software Engineer on the Network Infrastructure team at Oracle Cloud Infrastructure. I graduated Summa Cum Laude from Loyola Marymount University with a degree in Computer Science and a minor in Interactive, Gaming, & Immersive Media.
       </SectionText>
       <Button onClick={() => window.location = 'mailto:bookerjmartin@gmail.com'}>Contact Me</Button>
     </LeftSection>

@@ -35,7 +35,7 @@ const Technologies = () =>  (
           <ListTitle>Full-Stack</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js and Databases
+            Network Infrastructure and React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -51,7 +51,7 @@ const Technologies = () =>  (
           <ListTitle>Coding Languages</ListTitle>
           <ListParagraph>
             Experience with <br />
-            C#, JavaScript, Python, Java, & C++
+            Python, Java, C#, JavaScript, CSS, HTML
           </ListParagraph>
         </ListContainer>
       </ListItem>

@@ -48,25 +48,48 @@ const Timeline = () => {
       <SectionDivider />
       <br /><br /><br />
       <SectionTitle>Experience</SectionTitle>
+      <HeaderThree title>Oracle Cloud Infrastructure</HeaderThree>
+      <br />
+      <text>Santa Clara, CA</text>
+      <text>Software Engineer II - Network Infrastructure Team</text>
+      <text>March 2024 - Present</text>
+      <br />
+      <SectionText>
+      ● Owned the operational readiness for the dynamic host configuration protocol and zero-touch provisioning of a ground-up datacenter. Created logs, Telemetry metrics, alarms, and runbooks for system health incident diagnosis and resolution. Designed user-friendly Grafana dashboards using MQL queries for Key Performance Indicator visualizations.
+      </SectionText>
+      <br />
+      <SectionText>
+      ● Contributed to large-scale infrastructure code and worked on REST APIs to integrate hardware architecture and network monitoring workstreams. Set up the Docker container environment on compute hosts. Fixed critical security vulnerabilities.
+      </SectionText>
+      <br />
+      <SectionText>
+      ● Drove design reviews for backend development of a cable validation web portal that provides data center technicians accessible real-time rack and cable setup instructions and feedback.
+      </SectionText>
+      <br />
+      <text>Software Engineer I - Load Balancer Team</text>
+      <text>July 2022 - March 2024</text>
+      <br />
+      <SectionText>
+      ● Developed a Python tool to automate software updates for load balancers which redirected network traffic and validated service health. Optimized runtime using multithreading to efficiently update over 15,000 load balancers without customer impact.
+      </SectionText>
+      <br />
+      <SectionText>
+      ● Managed an intern in Summer 2024; Scoped project based on intern’s experience and team priorities, drove daily stand-ups to review and debug code, and provided performance evaluations.
+      </SectionText>
+      <br />
+      <SectionText>
+      ● Created a Python program using pandas to aggregate business metrics such as monthly bandwidth utilization and perform data analysis. Generated charts for efficiency improvements and quarterly profit reports delivered to key stakeholders including Oracle Cloud VPs.
+      </SectionText>
       <HeaderThree title>Dolby Laboratories</HeaderThree>
       <br />
       <text>San Francisco, CA</text>
       <text>Enterprise Application Integrations Intern</text>
-      <text>May 2021 - Present</text>
+      <text>May 2021 - March 2022</text>
       <br />
       <SectionText>
-      Developed and documented an automated task monitoring system in Informatica using XQuery and REST API’s to eliminate the time IT department spent manually scanning task logs
+      Designed, implemented, and documented an automated workflow task monitoring system in Informatica using XQuery and REST APIs to eliminate the time IT department spent manually scanning task logs.
       </SectionText>
-      <HeaderThree title>Camp EDMO</HeaderThree>
-      <br />
-      <text>Palo Alto, CA</text>
-      <text>Coding Instructor</text>
-      <text>Summer 2019</text>
-      <br />
-      <SectionText>
-      Taught five courses on fundamental concepts of computer science and engineering to kids in grades 5 - 8, sharing my passion for subjects such as game design and robotics during a pivotal point in their education
-      </SectionText>
-      <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
+      {/* <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
             <CarouselMobileScrollNode
@@ -115,8 +138,8 @@ const Timeline = () => {
             </CarouselMobileScrollNode>
           ))}
         </>
-      </CarouselContainer>
-      <CarouselButtons>
+      </CarouselContainer> */}
+      {/* <CarouselButtons>
         {TimeLineData.map((item, index) => {
           return (
             <CarouselButton
@@ -129,7 +152,7 @@ const Timeline = () => {
             </CarouselButton>
           );
         })}
-      </CarouselButtons>
+      </CarouselButtons> */}
     </Section>
   );
 };
